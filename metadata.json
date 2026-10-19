@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Home — Minimalist Storefront",
+  "description": "Modern minimalist product showcase web application with direct-to-WhatsApp ordering and a built-in Admin Dashboard for catalog management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
